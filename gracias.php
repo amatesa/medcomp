@@ -58,17 +58,17 @@
               <div class=icon><span class=icon-map></span></div>
               <div class=text>
                 <div class=title>Dirección</div>
-                <p>Suipacha 207, Capital Federal,<br>Buenos Aires</div>
+                <p>Jorgelin 231, Capital Federal,<br>Buenos Aires</div>
               <li>
                 <div class=icon><span class=icon-chat></span></div>
                 <div class=text>
                   <div class=title>Llamanos</div>
-                  <p>011 5217-3950</div> -->
+                  <p>+54 391 391 391</div> -->
                 <li>
                   <div class=icon><span class=icon-envelope></span></div>
                   <div class=text>
                     <div class=title>Email</div>
-                    <p>direccion@medcomp.com.ar</div>
+                    <p>example@email.com</div>
                   <li>
                     <div class=icon><span class=icon-clock></span></div>
                     <div class=text>
@@ -103,10 +103,10 @@
           <div class="border center contact-item">
             <div class=contact-title>OFICINAS CAP. FEDERAL</div>
             <ul class=contact-list>
-              <li class=address>Suipacha 207, Capital Federal, Buenos Aires
+              <li class=address>Jorgelin 231, Capital Federal, Buenos Aires
                 <li class=open>Lunes a Viernes: 09:00 a 18:00
-                  <li class=email>info@saludgestion.com.ar
-                    <li class=phone>011 5217-3949/50</ul>
+                  <li class=email>example@email.com
+                    <li class=phone>+54 391 391 391/50</ul>
           </div><iframe allowfullscreen frameborder=0 height=350 id=mapa-google src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6567.890982224395!2d-58.38137401211474!3d-34.605539843763054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5af3653b65fa5b36!2sSalud+y+Gesti%C3%B3n+S.A.!5e0!3m2!1ses-419!2sar!4v1518186978472"
             style=border:0 width=500></iframe></div>
       </div>
@@ -140,9 +140,9 @@
             <div class="widget-footer widget-contact">
               <h3 class=widget-title>CONTACTANOS</h3>
               <ul class=footer-info>
-                <!-- <li class=address>Suipacha 207, Capital Federal, Buenos Aires -->
-                  <li class=email>direccion@medcomp.com.ar
-                    <!-- <li class=phone><span>011 5217-3950</span> <span>011 5217-3949</span> -->
+                <!-- <li class=address>Jorgelin 231, Capital Federal, Buenos Aires -->
+                  <li class=email>example@email.com
+                    <!-- <li class=phone><span>+54 391 391 391</span> <span>+54 391 391 391</span> -->
                     </ul>
             </div>
           </div>
