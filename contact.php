@@ -95,7 +95,7 @@
 									Email
 								</div>
 								<p>
-									direccion@medcomp.com.ar
+									example@email.com
 								</p>
 							</div>
 						</li>
@@ -169,8 +169,8 @@
 						<ul class="contact-list">
 							<li class="address">Suipacha 207, Capital Federal, Buenos Aires</li>
 							<li class="open">Lunes a Viernes: 09:00 a 18:00</li>
-							<li class="email">info@saludgestion.com.ar</li>
-							<li class="phone">011 5217-3949/50</li>
+							<li class="email">example@email.com</li>
+							<li class="phone">+54 391 391 391</li>
 						</ul>
 					</div>
 					<iframe id="mapa-google" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6567.890982224395!2d-58.38137401211474!3d-34.605539843763054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5af3653b65fa5b36!2sSalud+y+Gesti%C3%B3n+S.A.!5e0!3m2!1ses-419!2sar!4v1518186978472" width="500" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -218,10 +218,10 @@
 							<h3 class="widget-title">CONTACTANOS</h3>
 							<ul class="footer-info">
 								<!-- <li class="address">Suipacha 207, Capital Federal, Buenos Aires</li> -->
-								<li class="email">direccion@medcomp.com.ar</li>
+								<li class="email">example@email.com</li>
 								<!-- <li class="phone">
-									<span>011 5217-3950</span>
-									<span>011 5217-3949</span>
+									<span>+54 391 391 391</span>
+									<span>+54 391 391 391</span>
 								</li> -->
 							</ul>
 						</div>
@@ -243,7 +243,7 @@
 							<li class="google"><a href="https://plus.google.com/u/0/102939445648595848669" title=""><i class="fa fa-google-plus"></i></a></li>
 						</ul>
 						<!-- <div class="copyright">
-							Copyright © 2017 - <a href="#" title="">SyG</a>. Derechos reservados
+							Copyright © 2017 - <a href="#" title="">AM</a>. Derechos reservados
 						</div> -->
 						<div class="clearfix"></div>
 					</div>
